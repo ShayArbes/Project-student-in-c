@@ -1,0 +1,23 @@
+﻿  checks.c
+C:\Users\User\Desktop\c project\‏‏Project student in c - עותק\Project student in c\checks.c(303,44): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  main.c
+  students.c
+C:\Users\User\Desktop\c project\‏‏Project student in c - עותק\Project student in c\students.c(76,4): warning C4013: 'print_warning' undefined; assuming extern returning int
+C:\Users\User\Desktop\c project\‏‏Project student in c - עותק\Project student in c\students.c(77,8): warning C4013: 'print_list_to_cons' undefined; assuming extern returning int
+C:\Users\User\Desktop\c project\‏‏Project student in c - עותק\Project student in c\students.c(107,26): warning C4013: 'check_field' undefined; assuming extern returning int
+C:\Users\User\Desktop\c project\‏‏Project student in c - עותק\Project student in c\students.c(113,6): warning C4013: 'check_operator' undefined; assuming extern returning int
+C:\Users\User\Desktop\c project\‏‏Project student in c - עותק\Project student in c\students.c(123,7): warning C4013: 'chek_only_letters' undefined; assuming extern returning int
+C:\Users\User\Desktop\c project\‏‏Project student in c - עותק\Project student in c\students.c(130,7): warning C4013: 'chek_id_select' undefined; assuming extern returning int
+C:\Users\User\Desktop\c project\‏‏Project student in c - עותק\Project student in c\students.c(137,7): warning C4013: 'chek_only_numbers_for_score' undefined; assuming extern returning int
+C:\Users\User\Desktop\c project\‏‏Project student in c - עותק\Project student in c\students.c(162,5): warning C4013: 'print_node' undefined; assuming extern returning int
+C:\Users\User\Desktop\c project\‏‏Project student in c - עותק\Project student in c\students.c(210,3): warning C4013: 'print_head' undefined; assuming extern returning int
+C:\Users\User\Desktop\c project\‏‏Project student in c - עותק\Project student in c\students.c(298,7): warning C4013: 'chek_only_numbers_for_id' undefined; assuming extern returning int
+C:\Users\User\Desktop\c project\‏‏Project student in c - עותק\Project student in c\students.c(306,7): warning C4013: 'chek_grade_select' undefined; assuming extern returning int
+C:\Users\User\Desktop\c project\‏‏Project student in c - עותק\Project student in c\students.c(376,15): warning C4098: 'file_into_list': 'void' function returning a value
+C:\Users\User\Desktop\c project\‏‏Project student in c - עותק\Project student in c\students.c(404,4): warning C4013: 'check_insertion_grades' undefined; assuming extern returning int
+C:\Users\User\Desktop\c project\‏‏Project student in c - עותק\Project student in c\students.c(406,7): warning C4013: 'check_if_there_is' undefined; assuming extern returning int
+C:\Users\User\Desktop\c project\‏‏Project student in c - עותק\Project student in c\students.c(365,7): warning C4101: 'ch': unreferenced local variable
+  Generating Code...
+C:\Users\User\Desktop\c project\‏‏Project student in c - עותק\Project student in c\students.c(327): warning C4715: 'Matching_access_to_value': not all control paths return a value
+C:\Users\User\Desktop\c project\‏‏Project student in c - עותק\Project student in c\checks.c(35): warning C4715: 'chek_id_select': not all control paths return a value
+  Project student in c.vcxproj -> C:\Users\User\Desktop\c project\‏‏Project student in c - עותק\x64\Debug\Project student in c.exe
